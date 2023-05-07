@@ -12,5 +12,5 @@ Deliverable 1: A Jupyter notebook containing code that scrapes the Mars news tit
 
 Deliverable 2: A Jupyter notebook containing code that scrapes the Mars weather data and that cleans, visualizes, and analyzes that data.
 
-image.png
-image.png
+Mars Planet Science.png
+Mission to Mars pic.png
